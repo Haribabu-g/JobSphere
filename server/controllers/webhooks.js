@@ -3,7 +3,7 @@ import User from '../models/User.js';
 
 //api controller func to manage clerk user with db
 
-const clerkWebhooks = async (res, req) => {
+const clerkWebhooks = async (req , res) => {
     try {
         // create a sivix instance with clerk webhook secret
 
@@ -30,7 +30,7 @@ const clerkWebhooks = async (res, req) => {
                     image: data.image_url,
                     resume: ''
                 }
-                await User.create(userData)
+                await User.create(useData)
                 res.json({})
                 break;
             }
@@ -42,7 +42,7 @@ const clerkWebhooks = async (res, req) => {
                     image: data.image_url,
                     
                 }
-                await User.findByIdAndUpdate(data.id, userData)
+                await User.findByIdAndUpdate(data.id, useData)
                 res.json({})
                 break;
 
