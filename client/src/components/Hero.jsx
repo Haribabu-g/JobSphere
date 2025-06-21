@@ -20,8 +20,9 @@ const Hero = () => {
     }
 
   return (
-    <div className='container 2xl:px-20 mx-auto my-10'>
-        <div className='bg-gradient-to-r from-blue-700 to-blue-950 text-white py-16 text-center mx-2 rounded-xl'>
+    <div className='className="w-full mx-0 px-0 2xl:px-20  my-10'>
+        <div className='bg-gradient-to-r from-cyan-500 to-blue-700
+ text-white py-16 text-center mx-2 rounded-xl'>
             <h2 className='text-2xl md:text-3xl lg:text-4xl font-medium mb-4'>
                 Over 10K+ jobs to apply
             </h2>
@@ -57,6 +58,12 @@ Your Next Big Career Move Starts Right Here - Explore the Best Job Opportunities
                 <img className='h-6' src={assets.samsung_logo} alt="" />
                 <img className='h-6' src={assets.walmart_logo} alt="" />
                 <img className='h-6' src={assets.microsoft_logo} alt="" />
+
+                <img className='h-6' src={assets.linkedn_logo} alt="" />
+                <img className='h-6' src={assets.nvidia_logo} alt="" />
+                <img className='h-6' src={assets.google_logo} alt="" />
+                <img className='h-6' src={assets.siemens_logo} alt="" />
+                <img className='h-6' src={assets.tesla_logo} alt="" />
 
             </div>
         </div>

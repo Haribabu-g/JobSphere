@@ -3,7 +3,7 @@ import { assets } from '../assets/assets'
 
 const AppDownload = () => {
   return (
-    <div className='container px-4 2xl:px-20 mx-auto my-20'>
+    <div className='w-full mx-0 px-2 2xl:px-20  my-20'>
         <div className='relative bg-gradient-to-r from-purple-100 to-purple-200 p-12 sm:p-24 lg:p-32 rounded-lg'>
             <div>
                 <h1 className='text-2xl sm:text-4xl font-bold mb-8 max-w-md'>Download Mobile App For Better Experience</h1>

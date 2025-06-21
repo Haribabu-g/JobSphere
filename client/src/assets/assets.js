@@ -1,11 +1,14 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import search_icon from "./search_icon.svg";
 import company_icon from "./company_icon.svg";
 import microsoft_logo from "./microsoft_logo.svg";
 import walmart_logo from "./walmart_logo.svg";
 import accenture_logo from "./accenture_logo.png";
+import linkedn_logo from "./linkedin_logo.png";
+import nvidia_logo from "./nvidia_logo.png";
+import google_logo from "./google.png";
 import profile_img from "./profile_img.png";
-import app_main_img from "./app_main_img.png";
+import app_main_img from "./animegirl.png";
 import cross_icon from './cross_icon.svg';
 import location_icon from './location_icon.svg';
 import money_icon from './money_icon.svg';
@@ -33,8 +36,12 @@ import lock_icon from './lock_icon.svg'
 import samsung_logo from './samsung_logo.png'
 import adobe_logo from './adobe_logo.png'
 import amazon_logo from './amazon_logo.png'
+import siemens_logo from './siemens_logo.png'
+import tesla_logo from './teslalogo.png'
 
 export const assets = {
+    siemens_logo,
+    tesla_logo,
     logo,
     search_icon,
     cross_icon,
@@ -69,7 +76,10 @@ export const assets = {
     lock_icon,
     samsung_logo,
     adobe_logo,
-    amazon_logo
+    amazon_logo,
+    linkedn_logo,
+    nvidia_logo,
+    google_logo
 }
 
 export const JobCategories = [
