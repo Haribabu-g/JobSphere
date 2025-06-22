@@ -18,7 +18,7 @@ import {
   CurrencyDollarIcon,
   CheckCircleIcon,
   DocumentTextIcon,
-  MapPinIcon ,
+  MapPinIcon,
 } from "@heroicons/react/24/outline";
 
 const ApplyJob = () => {
