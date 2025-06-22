@@ -30,8 +30,8 @@ Connect talent with opportunity — a complete job portal web app for **job seek
 
 🔗 [Visit JobSphere](https://job-portal-new-client-plum.vercel.app/)
 
-## 📸 Screenshots
-
+## 📸 Preview
+![JobSphere Preview](./client/public/preview.png)
 <!-- You can add screenshots here later like:
 ![Home Page](./screenshots/home.png)
 -->
