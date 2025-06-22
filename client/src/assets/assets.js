@@ -37,7 +37,7 @@ import samsung_logo from './samsung_logo.png'
 import adobe_logo from './adobe_logo.png'
 import amazon_logo from './amazon_logo.png'
 import siemens_logo from './siemens_logo.png'
-import tesla_logo from './Teslalogo.png'
+import tesla_logo from './Tesla_Logo.png'
 
 export const assets = {
     siemens_logo,
