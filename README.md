@@ -37,25 +37,25 @@ Connect talent with opportunity — a complete job portal web app for **job seek
 -->
 
 ## 📁 Folder Structure
-📦 Job_Portal/
-├── 📁 client/                # Frontend (React + Vite)
-│   ├── 📁 public/
-│   ├── 📁 src/
-│   │   ├── 📁 assets/
-│   │   ├── 📁 components/
-│   │   ├── 📁 context/
-│   │   ├── 📁 pages/
-│   │   └── App.jsx
-│   └── package.json
-├── 📁 server/                # Backend (Express + Node)
-│   ├── 📁 controllers/
-│   ├── 📁 middlewares/
-│   ├── 📁 models/
-│   ├── 📁 routes/
-│   └── server.js
-├── 📄 vercel.json
-├── 📄 README.md
-└── 📄 .gitignore
+- 📦 Job_Portal/
+- ├── 📁 client/ # Frontend (React + Vite)
+- │   ├── 📁 public/
+- │   ├── 📁 src/
+- │   │   ├── 📁 assets/
+- │   │   ├── 📁 components/
+- │   │   ├── 📁 context/
+- │   │   ├── 📁 pages/
+- │   │   └── App.jsx
+- │   └── package.json
+- ├── 📁 server/ # Backend (Express + Node)
+- │   ├── 📁 controllers/
+- │   ├── 📁 middlewares/
+- │   ├── 📁 models/
+- │   ├── 📁 routes/
+- │   └── server.js
+- ├── 📄 vercel.json
+- ├── 📄 README.md
+- └── 📄 .gitignore
 
 
 
