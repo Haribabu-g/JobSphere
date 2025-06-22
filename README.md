@@ -2,6 +2,16 @@
 
 Connect talent with opportunity — a complete job portal web app for **job seekers** and **recruiters**.
 
+## 🌐 Live Demo
+
+🔗 [Visit JobSphere](https://job-portal-new-client-plum.vercel.app/)
+
+## 📸 Preview
+![JobSphere Preview](./client/public/preview.png)
+<!-- You can add screenshots here later like:
+![Home Page](./screenshots/home.png)
+-->
+
 ## 🔍 Features
 
 ### 👤 For Job Seekers
@@ -25,16 +35,6 @@ Connect talent with opportunity — a complete job portal web app for **job seek
 - **Clerk** – Authentication & user management 🧾  
 - **Sentry** – Error tracking & performance monitoring 🛡️  
 - **Vercel** – Deployment platform for frontend & backend ☁️  
-
-## 🌐 Live Demo
-
-🔗 [Visit JobSphere](https://job-portal-new-client-plum.vercel.app/)
-
-## 📸 Preview
-![JobSphere Preview](./client/public/preview.png)
-<!-- You can add screenshots here later like:
-![Home Page](./screenshots/home.png)
--->
 
 ## 📁 Folder Structure
 - 📦 Job_Portal/
